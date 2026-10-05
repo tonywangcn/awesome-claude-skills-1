@@ -272,7 +272,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
-- [crawlora-skills](https://github.com/Crawlora-org/crawlora-skills) - Standalone REST research skills with bundled endpoint references and shell helpers for commerce, social media, finance, jobs, travel, public datasets, relocation budgets, brand mentions, congressional disclosures, newsletters, and football; includes a Claude Code marketplace bundle.
+- [crawlora-skills](https://github.com/Crawlora-org/crawlora-skills) - Standalone REST research skills with bundled endpoint references and shell helpers for commerce, social, finance, jobs, travel, and datasets. Focused workflows add book/film/streaming comparisons, forecasts and filings, patents, investor/developer discovery, flight and car-price analyses, and store footprints; includes a Claude Code marketplace bundle.
 
 
 ## 🤝 Contribution
